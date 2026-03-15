@@ -1,6 +1,6 @@
 import { ArrowRight, Cpu, Zap, BarChart2 } from 'lucide-react';
 
-const HERO_BG = '/IMG_6216.JPG';
+const HERO_BG = '\IMG_6216.JPG';
 
 export default function LandingV2() {
   return (
