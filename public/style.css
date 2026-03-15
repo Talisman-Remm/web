@@ -1,0 +1,25 @@
+/* Cambia el fondo de la ventana del chat por tu imagen */
+.vfrc-chat {
+    background-image: linear-gradient(rgba(0,0,0,0.85), rgba(0,0,0,0.85)), url('/img_5484.png') !important;
+    background-size: cover !important;
+    background-color: #000000 !important;
+}
+
+/* Cabecera negra con borde dorado */
+.vfrc-header {
+    background-color: #000000 !important;
+    border-bottom: 1px solid #D4AF37 !important;
+}
+
+/* Burbujas del chat estilo oscuro */
+.vfrc-message--chat {
+    background-color: #111111 !important;
+    color: #ffffff !important;
+    border: 1px solid rgba(212, 175, 55, 0.2) !important;
+}
+
+/* El botón circular de apertura */
+.vfrc-launcher {
+    background-color: #D4AF37 !important;
+    box-shadow: 0 4px 15px rgba(212,175,55, 0.4) !important;
+}
