@@ -1,6 +1,6 @@
 import { ArrowRight, Cpu, Zap, BarChart2 } from 'lucide-react';
 
-const HERO_BG = 'null';
+const HERO_BG = 'https://storage.googleapis.com/talisman/CC%2BA%20Puzzle%2015%20A.PNG';
 
 export default function LandingV2() {
   return (
