@@ -1,6 +1,6 @@
 import { ArrowRight, Cpu, Zap, BarChart2 } from 'lucide-react';
 
-const HERO_BG = 'https://storage.googleapis.com/talisman/SocialMedia2026-03-19T14%3A23%3A12.048Z.PNG';
+const HERO_BG = 'https://storage.googleapis.com/talisman/Background2026-03-21T08:09:51.711Z.png';
 
 export default function LandingV2() {
   return (
